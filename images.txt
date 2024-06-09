@@ -4,4 +4,8 @@ debian
 linuxserver/jellyfin:arm64v8-latest
 zmisgod/iptvchecker
 xiaoyaliu/alist:latest
+emby/embyserver
+linuxserver/qbittorrent
+registry.hub.docker.com
+jxxghp/MoviePilot:1.9.4
 
