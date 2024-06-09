@@ -1,5 +1,5 @@
 alpine
 kasmweb/nginx:1.25.3
 debian
-linux-arm-7-casaos-v0.4.2.tar.gz
+linuxserver/jellyfin:arm64v8-latest
 
