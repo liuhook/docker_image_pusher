@@ -6,7 +6,7 @@ zmisgod/iptvchecker
 xiaoyaliu/alist:latest
 emby/embyserver
 linuxserver/qbittorrent
-IceWhaleTech/CasaOS
+
 
 
 
