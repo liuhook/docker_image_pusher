@@ -6,6 +6,10 @@ zmisgod/iptvchecker
 xiaoyaliu/alist:latest
 emby/embyserver
 linuxserver/qbittorrent
+cloudflare/cloudflared:latest-arm64
+hunsh/gh-proxy-py
+halcyonazure/lsky-pro-docker:latest
+yidadaa/chatgpt-next-web:v2.12.3
 
 
 
