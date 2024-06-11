@@ -1,16 +1,5 @@
-alpine
-kasmweb/nginx:1.25.3
-debian
-linuxserver/jellyfin:arm64v8-latest
-zmisgod/iptvchecker
 xiaoyaliu/alist
-emby/embyserver
-linuxserver/qbittorrent
-cloudflare/cloudflared:latest-arm64
-hunsh/gh-proxy-py
-halcyonazure/lsky-pro-docker:latest
-yidadaa/chatgpt-next-web:v2.12.3
-laoyutang/clash-and-dashboard
-
+xhofe/alist
+nyanmisaka/jellyfin
 
 
