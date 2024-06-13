@@ -1,12 +1,12 @@
 alpine
 kasmweb/nginx:1.25.3
-debian
-linuxserver/jellyfin:arm64v8-latest
+xiaoyaliu/alist：hostmode
+xhofe/alist
+linuxserver/jellyfin:armv7
 zmisgod/iptvchecker
-xiaoyaliu/alist:latest
 emby/embyserver
 linuxserver/qbittorrent
-cloudflare/cloudflared:latest-arm64
+cloudflare/cloudflared:latest-armV7
 hunsh/gh-proxy-py
 halcyonazure/lsky-pro-docker:latest
 yidadaa/chatgpt-next-web:v2.12.3
